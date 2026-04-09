@@ -22,5 +22,9 @@ Pronto estare subiendo proyectos de:
 
 📫 Contacto:
 ✉️ geinerandrey.dev@gmail.com
+www.linkedin.com/in/
+andrey-otarola-15a189402
+Nombre de la URL personalizada
+
 
 
