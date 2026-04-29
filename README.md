@@ -1,26 +1,20 @@
-## Hola, soy Geiner Andrey 👋
+Hi, I'm Geiner Andrey 👋
+🎓 I'm a Software Engineering student. 📚 I study at Cenfotec University. 💻 I'm passionate about programming and software development. 📍 Costa Rica
 
-🎓 Soy Estudiante  de  Ingeniería  de SoftWare.
-📚 Estudio en la Universidad de Cenfotec
-💻 Soy apasionado por la programacion y el desarrollo de Software.
-📍 Costa Rica
+🛠️ Technologies I'm learning:
 
-🛠️ Tecnologias que estoy aprendiendo:
+Java
+Python
+HTML / CSS
+JavaScript
+Git / GitHub
+📂 Projects: I'll soon be uploading projects in:
 
-- Java
-- Python
-- HTML / CSS
-- JavaScript
-- Git / GitHub
+Algorithms
+Web Development
+Systems
+📫 Contact:
 
-📂 Proyectos:
-Pronto estare subiendo proyectos de:
-
-- Algoritmos
-- Desarrolo Web
-- Sistemas
-
-📫 Contacto:
 ✉️ geinerandrey.dev@gmail.com
 www.linkedin.com/in/
 andrey-otarola-15a189402
