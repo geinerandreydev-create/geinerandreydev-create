@@ -15,15 +15,15 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://github.com/TUUSUARIO">
+<a href="https://github.com/geinerandreydev-create">
 <img src="https://https://skillicons.dev/icons?i=all">
 </a>
 
-<a href="https://linkedin.com/in/TULINK">
+<a href="https://www.linkedin.com/in/andrey-otarola-15a189402/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="mailto:correo@gmail.com">
+<a href="geinerandrey.dev@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
 </a>
 </p>
