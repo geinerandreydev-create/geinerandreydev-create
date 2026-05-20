@@ -1,22 +1,35 @@
-<h1 align="center"> Hi, 🙏 I'm Geiner Andrey </h1>
+<h2 align="center">Hi 👋 I'm Geiner Andrey</h2>
 
 <p align="center">
-  💻 Software Engineer 
+💻 Software Engineering Student
+</p>
+
+<p align="center">
+<a href="https://github.com/geinerandreydev-create">
+<img src="https://www.readmecodegen.com/api/social-icon?name=github&size=48" />
+</a>
+
+<a href="https://www.linkedin.com/in/andrey-otarola-15a189402/">
+<img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=48" />
+</a>
+
+<a href="mailto:geinerandrey.dev@gmail.com">
+<img src="https://www.readmecodegen.com/api/social-icon?name=google&size=48" />
+</a>
 </p>
 
 ---
 
-##  About Me
+### About Me
 
-- I am a student of software engineering in process, at the University of Cenfotec Costa Rica
-
----
+- 🎓 Software Engineering student at Cenfotec University
+- 🚀 Learning Web Development & Programming
 
 ##  Connect With Me
 
 <p align="center">
 <a href="https://github.com/geinerandreydev-create">
-<img src="https://www.readmecodegen.com/api/social-icon?name=github&size=96" alt="github" />">
+<img src="https://www.readmecodegen.com/api/social-icon?name=github&size=96" alt="github" />
 </a>
 
 <a href="https://www.linkedin.com/in/andrey-otarola-15a189402/">
