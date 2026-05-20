@@ -16,15 +16,15 @@
 
 <p align="center">
 <a href="https://github.com/geinerandreydev-create">
-<img src="https://https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Github-Dark.svg">
+<img src="https://www.readmecodegen.com/api/social-icon?name=github&size=96" alt="github" />">
 </a>
 
 <a href="https://www.linkedin.com/in/andrey-otarola-15a189402/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+<img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=96" alt="linkedin" />
 </a>
 
 <a href="geinerandrey.dev@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
+<img src="https://www.readmecodegen.com/api/social-icon?name=google&size=96" alt="google" />
 </a>
 </p>
 
