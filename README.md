@@ -6,17 +6,17 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 - I am a student of software engineering in process, at the University of Cenfotec Costa Rica
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <p align="center">
 <a href="https://github.com/geinerandreydev-create">
-<img src="https://https://skillicons.dev/icons?i=all">
+<img src="https://https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Github-Dark.svg">
 </a>
 
 <a href="https://www.linkedin.com/in/andrey-otarola-15a189402/">
